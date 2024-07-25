@@ -13,6 +13,10 @@ In addition to the application for creating asset types, the device profile can 
 
 Software notes: 
 -Basyx Applications: https://github.com/eclipse-basyx/basyx-applications/tree/main
+
 -Asset Administration Shell: https://github.com/admin-shell-io
+
 -AASX Package Explorer: https://github.com/eclipse-aaspe/package-explorer
+
 -Docker Desktop: https://www.docker.com/products/docker-desktop/
+

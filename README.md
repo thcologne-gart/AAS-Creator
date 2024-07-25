@@ -12,6 +12,7 @@ The landing page of the application is clearly structured and shows the essentia
 In addition to the application for creating asset types, the device profile can also be searched using the application. From the start page, the "Browse Deviceprofile" page link takes you to the next page. Here, the respective assets can be selected and their contents displayed, such as submodels including their properties. In addition to the properties, the submodel elements also include the File type, which contains asset-specific documents. The AAS types provided contain a link via a permanent link to the Github repository of the GA laboratory at TH Köln for the file attachments, e.g. MTP files and simulation files, and can be downloaded there when the asset types are created. The respective files are therefore also available as individual files and can be used freely and outside of an administration shell environment.
 
 Software notes: 
+
 -Basyx Applications: https://github.com/eclipse-basyx/basyx-applications/tree/main
 
 -Asset Administration Shell: https://github.com/admin-shell-io
